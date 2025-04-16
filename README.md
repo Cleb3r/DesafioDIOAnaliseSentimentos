@@ -2,7 +2,7 @@
 # Análise de Sentimentos com Language Studio no Azure AI
 
 ### DESCRIÇÃO
-Neste LAB, exploraremos o uso do Azure Speech Studio e a análise linguística proporcionada pelo Language Studio.
+Neste LAB, exploraremos o uso do Azure Language Studio e a análise linguística proporcionada pelo mesmo.
 
 Criando o recurso no Azure
 ![criando](https://github.com/user-attachments/assets/0f824446-f774-4ba5-ade4-ac996e21ceeb)
