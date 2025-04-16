@@ -4,7 +4,7 @@ Neste LAB, exploraremos o uso do Azure Speech Studio e a análise linguística p
 
 Aqui a tela criando o recurso no Azure
 ![criando](https://github.com/user-attachments/assets/0f824446-f774-4ba5-ade4-ac996e21ceeb)
-Aqui a tele mostrando a tela do Language Studio
+Aqui a tela mostrando a tela do Language Studio
 ![languageStudio](https://github.com/user-attachments/assets/40dab482-aeda-4966-bb94-e34e73ca5bf2)
 Aqui a tela mostrando o recurso criado
 ![recursoCriado](https://github.com/user-attachments/assets/ed6be95b-8073-4f0b-8069-03a935dafa82)
